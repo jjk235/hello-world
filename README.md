@@ -1,4 +1,4 @@
 # hello-world
-A test for tutorial
+I am learning about Github
 
-I am Jae, Jae I am. Jae is me, I is Jae. 
+I am making changes to the Readme file
